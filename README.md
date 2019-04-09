@@ -1,6 +1,6 @@
-# The Azamon Project
+# The Library Project
 
-This is 1995. Azamon is about to change the world.
+This is 1995. The world is about change.
 
 ## Getting Started
 
